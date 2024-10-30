@@ -1,0 +1,19 @@
+.schedule {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    color: #444;
+    background-color: #f9f9f9;
+}
+
+.schedule-title {
+    font-size: 1rem;
+    margin: 0;
+    font-weight: bold;
+}
+
+.schedule-time {
+    font-size: 0.85rem;
+    color: #666;
+}
